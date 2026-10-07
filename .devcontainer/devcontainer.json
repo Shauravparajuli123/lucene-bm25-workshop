@@ -1,0 +1,5 @@
+{
+  "name": "Lucene Workshop",
+  "image": "mcr.microsoft.com/devcontainers/java:21",
+  "postCreateCommand": "bash get-jars.sh"
+}

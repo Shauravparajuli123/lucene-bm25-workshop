@@ -1,0 +1,8 @@
+D1	Search engine basics	A search engine finds documents that match a query.
+D2	Study habits blog	Search, search, search! This long post is about how students search: search early, search often, and search smart. It also covers browser tabs, bookmarks, keyboard shortcuts, note taking, sleep schedules, coffee, group projects, and many other habits that help students survive long nights in the library before finals.
+D3	Comparing tools	Students compared searching techniques across several engines used for academic research.
+D4	Inverted index	An inverted index maps each term to the list of documents that contain it.
+D5	History of the web	The early web grew quickly in the nineties. Universities, companies, and hobbyists built pages about everything, and users needed a better way to navigate them. Directories were curated by hand, but they could not keep up. Eventually the search engine became the main entry point to the web, and advertising followed close behind.
+D6	Road trip	The car engine overheated during our search for a gas station.
+D7	Apache Lucene	Lucene is a Java library for full-text indexing and retrieval.
+D8	BM25 ranking	BM25 ranks documents using term frequency, inverse document frequency, and document length.
